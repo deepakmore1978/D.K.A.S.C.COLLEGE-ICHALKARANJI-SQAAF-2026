@@ -37,29 +37,29 @@
     </header>
     <main>
         <section id="pyq">
-            <h2>Previous Question Paper</h2>
+            <h2>SHETRA KRAMANK 01</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1utkHfK7aX7mlvwbvujAk_Ylzmvhg0Tv3/view?usp=sharing">XII Question Bank</a></li>
-                <li><a href="https://drive.google.com/file/d/11elVnPEsITs5qaQQj42WYnajniA-62Vv/view?usp=sharing">Practice Paper 01</a></li>
-                <li><a href="https://drive.google.com/file/d/1vUMKqntcSPDi9XN9_ovWYLWMQpZDZLbt/view?usp=sharing">Model Ans.Practice Paper 01</a></li>
-                <li><a href="https://drive.google.com/file/d/1wmBqJwWHtgZb61EA5GuVFYSF78Vp2cpx/view?usp=sharing">Practice Paper 02</a></li>
-                <li><a href="https://drive.google.com/file/d/1XfR_-dY57w5UxIxPIJ2PLKxrYj1HxIA8/view?usp=sharing">Model Ans.Practice Paper 02</a></li>
-                <li><a href="https://drive.google.com/file/d/11TnyJtkqV9dJy2uf6QytbwKwPVvjvzfF/view?usp=sharing">Practice Paper 03</a></li>
-                <li><a href="https://drive.google.com/file/d/1PoA_8GjbXCEdVeK69tZppEXZZyHrP7qi/view?usp=sharing">Model Ans.Practice Paper 03</a></li>
-                <li><a href="https://drive.google.com/file/d/1nlQKo91_adrbhsYFhYGR-GY_y8wXsJq4/view?usp=sharing">Practice Paper 04</a></li>
-                <li><a href="https://drive.google.com/file/d/1nQYkycaMK008jS0nWxStAWJ-SypA1ocR/view?usp=sharing">Model Ans.Practice Paper 04</a></li>
-                <li><a href="https://drive.google.com/file/d/1Lu9_z7MmUyvuLyCc4Y4lXTA8zu-Xk78-/view?usp=sharing">Practice Paper 05</a></li>
-                <li><a href="https://drive.google.com/file/d/1qHe_dpVgvYcj9Icz5y5kL3dtxTVQN-M6/view?usp=sharing">Model Ans.Practice Paper 05</a></li>
-                <li><a href="https://drive.google.com/file/d/1N1fW_1_c44-oQGPSAUJaeB8BIrQ0XLuO/view?usp=sharing">Model Feb 2025 Board Ques. Paper with Model Ans</a></li>
-                <li><a href="https://drive.google.com/file/d/15Vm66r_jLvUJz8CuHgMkc5DyLoV_JZs5/view?usp=sharing">XII Board Physics Question Bank</a></li>
-                <li><a href="https://drive.google.com/file/d/1334wVlEqMjrrIgO3l-p_txnT4IzU8bjO/view?usp=sharing">XII Board Maths Question Bank</a></li>
-                <li><a href="https://drive.google.com/file/d/1MF1P1wJsE14pP8GS6HZ1hKXNbL49b6Zz/view?usp=sharing">XII Board Geography Question Bank</a></li>
-                <li><a href="https://drive.google.com/file/d/1_JTshitbLoq5GOWrWJpHYdLMA_YTds2V/view?usp=sharing">XII Board English Question Bank</a></li>
-                <li><a href="https://drive.google.com/file/d/1xhLpZlHZtUSRJ-bDF_JPXNsJSHMgJXce/view?usp=sharing">XII Board Chemistry Question Bank</a></li>
-                <li><a href="https://drive.google.com/file/d/1X0oBO8IZDbxmuLRPRehsBCGuBmNMUmGx/view?usp=sharing">XII Board Biology Question Bank</a></li>
-                <li><a href="https://drive.google.com/file/d/1R9oUPL0VklZQMgQ1RK-jUNz6ZWbghLta/view?usp=sharing">Board Question Paper 2021</a></li>
-                <li><a href="https://drive.google.com/file/d/1AlPeIp7s1rNAac-de0LE_AOXleM0Momd/view?usp=sharing">Model july 2023 Board Ques. Paper with Model Ans</a></li>
-                <li><a href="https://drive.google.com/file/d/1eYqzxFSyQvYOxLJPdAxd2HzIvyZKIz0P/view?usp=sharing">Model july 2024 Board Ques. Paper with Model Ans</a></li>
+                <li><a href="https://drive.google.com/file/d/1utkHfK7aX7mlvwbvujAk_Ylzmvhg0Tv3/view?usp=sharing">MANAK KRAMANK 01</a></li>
+                <li><a href="https://drive.google.com/file/d/11elVnPEsITs5qaQQj42WYnajniA-62Vv/view?usp=sharing">MANAK KRANAK 02</a></li>
+                <li><a href="https://drive.google.com/file/d/1vUMKqntcSPDi9XN9_ovWYLWMQpZDZLbt/view?usp=sharing">MANAK KRAMANK 03</a></li>
+                <li><a href="https://drive.google.com/file/d/1wmBqJwWHtgZb61EA5GuVFYSF78Vp2cpx/view?usp=sharing">MANAK KRAMANK 04</a></li>
+                <li><a href="https://drive.google.com/file/d/1XfR_-dY57w5UxIxPIJ2PLKxrYj1HxIA8/view?usp=sharing">MANAK KRAMANK 05</a></li>
+                <li><a href="https://drive.google.com/file/d/11TnyJtkqV9dJy2uf6QytbwKwPVvjvzfF/view?usp=sharing">MANAK KRAMANK 06</a></li>
+                <li><a href="https://drive.google.com/file/d/1PoA_8GjbXCEdVeK69tZppEXZZyHrP7qi/view?usp=sharing">MANAK KRAMANK 07</a></li>
+                <li><a href="https://drive.google.com/file/d/1nlQKo91_adrbhsYFhYGR-GY_y8wXsJq4/view?usp=sharing">MANAK KRAMANK 08</a></li>
+                <li><a href="https://drive.google.com/file/d/1nQYkycaMK008jS0nWxStAWJ-SypA1ocR/view?usp=sharing">MANAK KRAMANK 09</a></li>
+                <li><a href="https://drive.google.com/file/d/1Lu9_z7MmUyvuLyCc4Y4lXTA8zu-Xk78-/view?usp=sharing">MANAK KRAMANK 10</a></li>
+                <li><a href="https://drive.google.com/file/d/1qHe_dpVgvYcj9Icz5y5kL3dtxTVQN-M6/view?usp=sharing">MANAK KRAMANK 11</a></li>
+                <li><a href="https://drive.google.com/file/d/1N1fW_1_c44-oQGPSAUJaeB8BIrQ0XLuO/view?usp=sharing">MANAK KRAMANK 12</a></li>
+                <li><a href="https://drive.google.com/file/d/15Vm66r_jLvUJz8CuHgMkc5DyLoV_JZs5/view?usp=sharing">MANAK KRAMANK 13</a></li>
+                <li><a href="https://drive.google.com/file/d/1334wVlEqMjrrIgO3l-p_txnT4IzU8bjO/view?usp=sharing">MANAK KRAMANK 14</a></li>
+                <li><a href="https://drive.google.com/file/d/1MF1P1wJsE14pP8GS6HZ1hKXNbL49b6Zz/view?usp=sharing">MANAK KRAMANK 15</a></li>
+                <li><a href="https://drive.google.com/file/d/1_JTshitbLoq5GOWrWJpHYdLMA_YTds2V/view?usp=sharing">MANAK KRAMANK 16</a></li>
+                <li><a href="https://drive.google.com/file/d/1xhLpZlHZtUSRJ-bDF_JPXNsJSHMgJXce/view?usp=sharing">MANAK KRAMANK 17</a></li>
+                <li><a href="https://drive.google.com/file/d/1X0oBO8IZDbxmuLRPRehsBCGuBmNMUmGx/view?usp=sharing">MANAK KRAMANK 18</a></li>
+                <li><a href="https://drive.google.com/file/d/1R9oUPL0VklZQMgQ1RK-jUNz6ZWbghLta/view?usp=sharing">MANAK KRAMANK 19</a></li>
+                <li><a href="https://drive.google.com/file/d/1AlPeIp7s1rNAac-de0LE_AOXleM0Momd/view?usp=sharing">MANAK KRAMANK 20</a></li>
+                <li><a href="https://drive.google.com/file/d/1eYqzxFSyQvYOxLJPdAxd2HzIvyZKIz0P/view?usp=sharing">MANAK KRAMANK 21</a></li>
            </ul>
         </section>
         <section id="CH01 Rotational Dynamics">
