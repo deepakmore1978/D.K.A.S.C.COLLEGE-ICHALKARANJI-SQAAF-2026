@@ -178,12 +178,20 @@
                 <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 117</a></li>
            </ul>
         </section>
-        <section id="CH05 Oscillation">
-            <h2>XII CHP 05 Oscillation</h2>
+        <section id="SHETRA KAMANK 06">
+            <h2>SHETRA KAMANK 06</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1jGLeTeEJyTJVVQFPxpT-TGMR8h1UJ4yg/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1b51PXyBVzzrlWLszsaLMNWxku4g1RtZr/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1jGLeTeEJyTJVVQFPxpT-TGMR8h1UJ4yg/view?usp=sharing">MANAK KRAMANK 118</a></li>
+                <li><a href="https://drive.google.com/file/d/1b51PXyBVzzrlWLszsaLMNWxku4g1RtZr/view?usp=sharing">MANAK KRAMANK 119</a></li>
+                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 120</a></li>
+                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 121</a></li>
+                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 122</a></li>
+                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 123</a></li>
+                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 124</a></li>
+                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 125</a></li>
+                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 126</a></li>
+                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 127</a></li>
+                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 128</a></li>
            </ul>
         </section>
         <section id="CH06 Superposition Of Waves">
