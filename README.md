@@ -85,10 +85,10 @@
                 <li><a href="https://drive.google.com/file/d/1eYqzxFSyQvYOxLJPdAxd2HzIvyZKIz0P/view?usp=sharing">MANAK KRAMANK 44</a></li>
            </ul>
         </section>
-        <section id="CH01 Rotational Dynamics">
-            <h2>XII CHP 01 Rotational Dynamics</h2>
+        <section id="SHETRA KAMANK 02">
+            <h2>SHETRA KAMANK 02</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/125M2B2C7vP1iEAbcXJFmcRvbKLgj2Emf/view?usp=sharing">Theory Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/125M2B2C7vP1iEAbcXJFmcRvbKLgj2Emf/view?usp=sharing">MANAK KRAMANK 45</a></li>
                 <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1g6HIMYsmadmdFdLVtAduY0N_7jsd2JVZ/view?usp=sharing">PPT Notes</a></li>
                 <li><a href="https://forms.gle/2ovCs56PhUEHvge59">MCQ TEST 01</a></li>
