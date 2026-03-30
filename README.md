@@ -145,8 +145,8 @@
         <section id="SHETRA KAMANK 05">
             <h2>SHETRA KAMANK 05</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1MVLZcZZzsek2oaePzua4rHH7lwMLSvoj/view?usp=sharing">MANAK KRAMANK 101</a></li>
-                <li><a href="https://drive.google.com/file/d/1b5w8Yno4t6QZoOVYJAplktbvLw5oI9D9/view?usp=sharing">MANAK KRAMANK 102</a></li>
+                <li><a href="https://drive.google.com/file/d/1UNkDZT6Ccb2FVgHlQ7uuWydbgRG5EOVI/view?usp=sharing">MANAK KRAMANK 101</a></li>
+                <li><a href="https://drive.google.com/file/d/1OCVuAouoPQQ89BcZYpeXa7z25TvYvpvP/view?usp=sharing">MANAK KRAMANK 102</a></li>
                 <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 103</a></li>
                 <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 104</a></li>
                 <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 105</a></li>
