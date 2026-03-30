@@ -120,12 +120,21 @@
                 <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 74</a></li>
             </ul>
         </section>
-        <section id="CH02 Mechanical Properties of Fluids">
-            <h2>XII CHP 02 Mechanical Properties of Fluids</h2>
+        <section id="SHETRA KAMANK 03">
+            <h2>SHETRA KAMANK 03</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1gUE9aqP0axqTV5SebLBLSoHH_dsHG1xg/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1fcarcAwhToZ_8MT-Ly9GJMo-8BKOxWSu/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1pY8TxxppNVfyJE_OBCPKzzmH9RHlGSB4/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1gUE9aqP0axqTV5SebLBLSoHH_dsHG1xg/view?usp=sharing">MANAK KRAMANK 75</a></li>
+                <li><a href="https://drive.google.com/file/d/1fcarcAwhToZ_8MT-Ly9GJMo-8BKOxWSu/view?usp=sharing">MANAK KRAMANK 76</a></li>
+                <li><a href="https://drive.google.com/file/d/1pY8TxxppNVfyJE_OBCPKzzmH9RHlGSB4/view?usp=sharing">MANAK KRAMANK 77</a></li>
+                <li><a href="https://drive.google.com/file/d/1pY8TxxppNVfyJE_OBCPKzzmH9RHlGSB4/view?usp=sharing">MANAK KRAMANK 78</a></li>
+                <li><a href="https://drive.google.com/file/d/1pY8TxxppNVfyJE_OBCPKzzmH9RHlGSB4/view?usp=sharing">MANAK KRAMANK 79</a></li>
+                <li><a href="https://drive.google.com/file/d/1pY8TxxppNVfyJE_OBCPKzzmH9RHlGSB4/view?usp=sharing">MANAK KRAMANK 80</a></li>
+                <li><a href="https://drive.google.com/file/d/1pY8TxxppNVfyJE_OBCPKzzmH9RHlGSB4/view?usp=sharing">MANAK KRAMANK 81</a></li>
+                <li><a href="https://drive.google.com/file/d/1pY8TxxppNVfyJE_OBCPKzzmH9RHlGSB4/view?usp=sharing">MANAK KRAMANK 82</a></li>
+                <li><a href="https://drive.google.com/file/d/1pY8TxxppNVfyJE_OBCPKzzmH9RHlGSB4/view?usp=sharing">MANAK KRAMANK 83</a></li>
+                <li><a href="https://drive.google.com/file/d/1pY8TxxppNVfyJE_OBCPKzzmH9RHlGSB4/view?usp=sharing">MANAK KRAMANK 84</a></li>
+                <li><a href="https://drive.google.com/file/d/1pY8TxxppNVfyJE_OBCPKzzmH9RHlGSB4/view?usp=sharing">MANAK KRAMANK 85</a></li>
+                <li><a href="https://drive.google.com/file/d/1pY8TxxppNVfyJE_OBCPKzzmH9RHlGSB4/view?usp=sharing">MANAK KRAMANK 86</a></li>
             </ul>
         </section>
         <section id="CH03 Kinetic Theory OF Gases">
