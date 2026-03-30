@@ -89,16 +89,35 @@
             <h2>SHETRA KAMANK 02</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/125M2B2C7vP1iEAbcXJFmcRvbKLgj2Emf/view?usp=sharing">MANAK KRAMANK 45</a></li>
-                <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1g6HIMYsmadmdFdLVtAduY0N_7jsd2JVZ/view?usp=sharing">PPT Notes</a></li>
-                <li><a href="https://forms.gle/2ovCs56PhUEHvge59">MCQ TEST 01</a></li>
-                <li><a href="https://forms.gle/N7J9xG6HLSdcXXkd7">MCQ TEST 02</a></li>
-                <li><a href="https://forms.gle/4JCoS96H7NYxCak39">MCQ TEST 03</a></li>
-                <li><a href="https://forms.gle/74hdAv7yKTB7MWos9">MCQ TEST 04</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScGJ8Bje07c3ySxMaDNCNuHDtb4cuG39GQxF_passhQJ5zT6w/viewform?usp=sharing">MCQ TEST 05</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc6gTzYvWzPZ5noUoLHPkHrBEceRYHRhK-uo1f-_WipuH9S5g/viewform?usp=sharing">MCQ TEST 06</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeDSN8lt-JKrkaIdqK3-2XL56YrAz9dbrwdj2oBa4kNvqkIJg/viewform?usp=sharing">MCQ TEST 07</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MCQ TEST 08</a></li>
+                <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">MANAK KRAMANK 46</a></li>
+                <li><a href="https://drive.google.com/file/d/1g6HIMYsmadmdFdLVtAduY0N_7jsd2JVZ/view?usp=sharing">MANAK KRAMANK 47</a></li>
+                <li><a href="https://forms.gle/2ovCs56PhUEHvge59">MANAK KRAMANK 48</a></li>
+                <li><a href="https://forms.gle/N7J9xG6HLSdcXXkd7">MANAK KRAMANK 49</a></li>
+                <li><a href="https://forms.gle/4JCoS96H7NYxCak39">MANAK KRAMANK 50</a></li>
+                <li><a href="https://forms.gle/74hdAv7yKTB7MWos9">MANAK KRAMANK 51</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScGJ8Bje07c3ySxMaDNCNuHDtb4cuG39GQxF_passhQJ5zT6w/viewform?usp=sharing">MANAK KRAMANK 52</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc6gTzYvWzPZ5noUoLHPkHrBEceRYHRhK-uo1f-_WipuH9S5g/viewform?usp=sharing">MANAK KRAMANK 53</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeDSN8lt-JKrkaIdqK3-2XL56YrAz9dbrwdj2oBa4kNvqkIJg/viewform?usp=sharing">MANAK KRAMANK 54</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 55</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 56</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 57</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 58</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 59</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 60</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 61</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 62</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 63</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 64</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 65</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 66</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 67</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 68</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 69</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 70</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 71</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 72</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 73</a></li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MANAK KRAMANK 74</a></li>
             </ul>
         </section>
         <section id="CH02 Mechanical Properties of Fluids">
