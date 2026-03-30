@@ -60,6 +60,8 @@
                 <li><a href="https://drive.google.com/file/d/1R9oUPL0VklZQMgQ1RK-jUNz6ZWbghLta/view?usp=sharing">MANAK KRAMANK 19</a></li>
                 <li><a href="https://drive.google.com/file/d/1AlPeIp7s1rNAac-de0LE_AOXleM0Momd/view?usp=sharing">MANAK KRAMANK 20</a></li>
                 <li><a href="https://drive.google.com/file/d/1eYqzxFSyQvYOxLJPdAxd2HzIvyZKIz0P/view?usp=sharing">MANAK KRAMANK 21</a></li>
+                <li><a href="https://drive.google.com/file/d/1eYqzxFSyQvYOxLJPdAxd2HzIvyZKIz0P/view?usp=sharing">MANAK KRAMANK 22</a></li>
+                <li><a href="https://drive.google.com/file/d/1eYqzxFSyQvYOxLJPdAxd2HzIvyZKIz0P/view?usp=sharing">MANAK KRAMANK 23</a></li>
            </ul>
         </section>
         <section id="CH01 Rotational Dynamics">
