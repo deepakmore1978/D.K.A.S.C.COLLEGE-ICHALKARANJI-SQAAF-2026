@@ -12,7 +12,7 @@
     <header>
         <nav>
             <ul> 
-                <li><a href="#pyq">Previous Question Paper</a></li>
+                <li><a href="#pyq">SHETRA KRAMANK 01</a></li>
                 <li><a href="#CH01 Rotational Dynamics">XII chp 01 Rotational Dynamics</a></li>
                 <li><a href="#CH02 Mechanical Properties of Fluids">XII chp 02 Mechanical Properties of Fluids</a></li>
                 <li><a href="#CH03 Kinetic Theory OF Gases">XII chp 03 Kinetic Theory OF Gases</a></li>
