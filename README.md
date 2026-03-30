@@ -125,20 +125,20 @@
         <section id="SHETRA KAMANK 04">
             <h2>SHETRA KAMANK 04</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1ihhingyi-e02usoPJqC_UH9mkl8bBjfi/view?usp=sharing">MANAK KRAMANK 87</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 88</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 89</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 90</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 91</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 92</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 93</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 94</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 95</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 96</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 97</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 98</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 99</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 100</a></li>
+                <li><a href="">MANAK KRAMANK 87</a></li>
+                <li><a href="">MANAK KRAMANK 88</a></li>
+                <li><a href="">MANAK KRAMANK 89</a></li>
+                <li><a href="">MANAK KRAMANK 90</a></li>
+                <li><a href="">MANAK KRAMANK 91</a></li>
+                <li><a href="">MANAK KRAMANK 92</a></li>
+                <li><a href="">MANAK KRAMANK 93</a></li>
+                <li><a href="">MANAK KRAMANK 94</a></li>
+                <li><a href="">MANAK KRAMANK 95</a></li>
+                <li><a href="">MANAK KRAMANK 96</a></li>
+                <li><a href="">MANAK KRAMANK 97</a></li>
+                <li><a href="">MANAK KRAMANK 98</a></li>
+                <li><a href="">MANAK KRAMANK 99</a></li>
+                <li><a href="">MANAK KRAMANK 100</a></li>
            </ul>
         </section>
         <section id="SHETRA KAMANK 05">
@@ -166,17 +166,17 @@
         <section id="SHETRA KAMANK 06">
             <h2>SHETRA KAMANK 06</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1jGLeTeEJyTJVVQFPxpT-TGMR8h1UJ4yg/view?usp=sharing">MANAK KRAMANK 118</a></li>
-                <li><a href="https://drive.google.com/file/d/1b51PXyBVzzrlWLszsaLMNWxku4g1RtZr/view?usp=sharing">MANAK KRAMANK 119</a></li>
-                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 120</a></li>
-                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 121</a></li>
-                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 122</a></li>
-                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 123</a></li>
-                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 124</a></li>
-                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 125</a></li>
-                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 126</a></li>
-                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 127</a></li>
-                <li><a href="https://drive.google.com/file/d/1opeYoffz5uwsIa9etfYkvfyQuxOcYyVd/view?usp=sharing">MANAK KRAMANK 128</a></li>
+                <li><a href="">MANAK KRAMANK 118</a></li>
+                <li><a href="">MANAK KRAMANK 119</a></li>
+                <li><a href="">MANAK KRAMANK 120</a></li>
+                <li><a href="">MANAK KRAMANK 121</a></li>
+                <li><a href="">MANAK KRAMANK 122</a></li>
+                <li><a href="">MANAK KRAMANK 123</a></li>
+                <li><a href="">MANAK KRAMANK 124</a></li>
+                <li><a href="">MANAK KRAMANK 125</a></li>
+                <li><a href="">MANAK KRAMANK 126</a></li>
+                <li><a href="">MANAK KRAMANK 127</a></li>
+                <li><a href="">MANAK KRAMANK 128</a></li>
            </ul>
         </section>
         </main>
