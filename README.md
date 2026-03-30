@@ -25,15 +25,15 @@
         <section id="pyq">
             <h2>SHETRA KRAMANK 01</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1utkHfK7aX7mlvwbvujAk_Ylzmvhg0Tv3/view?usp=sharing">MANAK KRAMANK 01</a></li>
-                <li><a href="https://drive.google.com/file/d/11elVnPEsITs5qaQQj42WYnajniA-62Vv/view?usp=sharing">MANAK KRAMANK 02</a></li>
-                <li><a href="https://drive.google.com/file/d/1vUMKqntcSPDi9XN9_ovWYLWMQpZDZLbt/view?usp=sharing">MANAK KRAMANK 03</a></li>
-                <li><a href="https://drive.google.com/file/d/1wmBqJwWHtgZb61EA5GuVFYSF78Vp2cpx/view?usp=sharing">MANAK KRAMANK 04</a></li>
-                <li><a href="https://drive.google.com/file/d/1XfR_-dY57w5UxIxPIJ2PLKxrYj1HxIA8/view?usp=sharing">MANAK KRAMANK 05</a></li>
-                <li><a href="https://drive.google.com/file/d/11TnyJtkqV9dJy2uf6QytbwKwPVvjvzfF/view?usp=sharing">MANAK KRAMANK 06</a></li>
-                <li><a href="https://drive.google.com/file/d/1PoA_8GjbXCEdVeK69tZppEXZZyHrP7qi/view?usp=sharing">MANAK KRAMANK 07</a></li>
-                <li><a href="https://drive.google.com/file/d/1nlQKo91_adrbhsYFhYGR-GY_y8wXsJq4/view?usp=sharing">MANAK KRAMANK 08</a></li>
-                <li><a href="https://drive.google.com/file/d/1nQYkycaMK008jS0nWxStAWJ-SypA1ocR/view?usp=sharing">MANAK KRAMANK 09</a></li>
+                <li><a href="">MANAK KRAMANK 01</a></li>
+                <li><a href="">MANAK KRAMANK 02</a></li>
+                <li><a href="">MANAK KRAMANK 03</a></li>
+                <li><a href="">MANAK KRAMANK 04</a></li>
+                <li><a href="">MANAK KRAMANK 05</a></li>
+                <li><a href="">MANAK KRAMANK 06</a></li>
+                <li><a href="">MANAK KRAMANK 07</a></li>
+                <li><a href="">MANAK KRAMANK 08</a></li>
+                <li><a href="">MANAK KRAMANK 09</a></li>
                 <li><a href="https://drive.google.com/file/d/1Lu9_z7MmUyvuLyCc4Y4lXTA8zu-Xk78-/view?usp=sharing">MANAK KRAMANK 10</a></li>
                 <li><a href="https://drive.google.com/file/d/1qHe_dpVgvYcj9Icz5y5kL3dtxTVQN-M6/view?usp=sharing">MANAK KRAMANK 11</a></li>
                 <li><a href="https://drive.google.com/file/d/1N1fW_1_c44-oQGPSAUJaeB8BIrQ0XLuO/view?usp=sharing">MANAK KRAMANK 12</a></li>
