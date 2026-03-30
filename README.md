@@ -137,12 +137,23 @@
                 <li><a href="https://drive.google.com/file/d/1pY8TxxppNVfyJE_OBCPKzzmH9RHlGSB4/view?usp=sharing">MANAK KRAMANK 86</a></li>
             </ul>
         </section>
-        <section id="CH03 Kinetic Theory OF Gases">
-            <h2>XII CHP 03 Kinetic Theory OF Gases</h2>
+        <section id="SHETRA KAMANK 04">
+            <h2>SHETRA KAMANK 04</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1ihhingyi-e02usoPJqC_UH9mkl8bBjfi/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1ihhingyi-e02usoPJqC_UH9mkl8bBjfi/view?usp=sharing">MANAK KRAMANK 87</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 88</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 89</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 90</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 91</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 92</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 93</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 94</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 95</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 96</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 97</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 98</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 99</a></li>
+                <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 100</a></li>
            </ul>
         </section>
         <section id="CH04 Thermodynamics">
