@@ -14,10 +14,10 @@
             <ul> 
                 <li><a href="#pyq">SHETRA KRAMANK 01</a></li>
                 <li><a href="#SHETRA KAMANK 02">SHETRA KAMANK 02</a></li>
-                <li><a href="#CH02 Mechanical Properties of Fluids">XII chp 02 Mechanical Properties of Fluids</a></li>
-                <li><a href="#CH03 Kinetic Theory OF Gases">XII chp 03 Kinetic Theory OF Gases</a></li>
-                <li><a href="#CH04 Thermodynamics">XII chp 04 Thermodynamics</a></li>
-                <li><a href="#CH05 Oscillation">XII chp 05 Oscillation</a></li>
+                <li><a href="#SHETRA KAMANK 03">SHETRA KAMANK 03</a></li>
+                <li><a href="#SHETRA KAMANK 04">SHETRA KAMANK 04</a></li>
+                <li><a href="#SHETRA KAMANK 05">SHETRA KAMANK 05</a></li>
+                <li><a href="#SHETRA KAMANK 06">SHETRA KAMANK 06</a></li>
                 <li><a href="#CH06 Superposition Of Waves">XII chp 06 Superposition Of Waves</a></li>
                 <li><a href="#CH07 Wave Optics">XII chp 07 Wave Optics</a></li>
                 <li><a href="#CH08 Electrostatics">XII chp 08 Electrostatics</a></li>
