@@ -156,12 +156,26 @@
                 <li><a href="https://drive.google.com/file/d/1mLp-N3gEkGgh305-CXrXH2wlIoL8-jrK/view?usp=sharing">MANAK KRAMANK 100</a></li>
            </ul>
         </section>
-        <section id="CH04 Thermodynamics">
-            <h2>XII CHP 04 Thermodynamics</h2>
+        <section id="SHETRA KAMANK 05">
+            <h2>SHETRA KAMANK 05</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1MVLZcZZzsek2oaePzua4rHH7lwMLSvoj/view?usp=sharing">Theory Notes</a></li>
-                <li><a href="https://drive.google.com/file/d/1b5w8Yno4t6QZoOVYJAplktbvLw5oI9D9/view?usp=sharing">Ques Bank With Solution</a></li>
-                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1MVLZcZZzsek2oaePzua4rHH7lwMLSvoj/view?usp=sharing">MANAK KRAMANK 101</a></li>
+                <li><a href="https://drive.google.com/file/d/1b5w8Yno4t6QZoOVYJAplktbvLw5oI9D9/view?usp=sharing">MANAK KRAMANK 102</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 103</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 104</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 105</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 106</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 107</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 108</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 109</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 110</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 111</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 112</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 113</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 114</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 115</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 116</a></li>
+                <li><a href="https://drive.google.com/file/d/18Ob_9F9esxL7XKRXxRpkpkrvgybCKzQm/view?usp=sharing">MANAK KRAMANK 117</a></li>
            </ul>
         </section>
         <section id="CH05 Oscillation">
