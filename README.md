@@ -75,7 +75,10 @@
         <section id="SHETRA KRAMANK 02">
             <h2>SHETRA KAMANK 02</h2>
             <ul>
-                <li><a href="https://drive.google.com/file/d/1xAc7SgIUdeEC--WvtldV7z2pt6QeYjuh/view?usp=sharing">MANAK KRAMANK 44 TO 48</a></li>
+                <li><a href="https://drive.google.com/file/d/12PzhIVp3OPBcGRF0SCxAYmSuMz2DV-rp/view?usp=sharing">MANAK KRAMANK 45</a></li>
+                <li><a href="https://drive.google.com/file/d/1g3Sxz_axc1_xGV63pwtsZBiVWmaXWCpm/view?usp=sharing">MANAK KRAMANK 46</a></li>
+                <li><a href="https://drive.google.com/file/d/1b0khs70OryHb8mXFjNb7DoAelYrPX4I5/view?usp=sharing">MANAK KRAMANK 47</a></li>
+                <li><a href="https://drive.google.com/file/d/1uvMxVSIItybXZd0nTB2Pg6DyjoiK2sKI/view?usp=sharing">MANAK KRAMANK 48</a></li>
                 <li><a href="https://drive.google.com/file/d/1D01mXsTl0z6cOL2MNBoqk4JLcQ9HfXls/view?usp=sharing">MANAK KRAMANK 49</a></li>
                 <li><a href="https://drive.google.com/file/d/1t-4KTQx4m5uDO2Wy2OMbRBgRmCFZ3eZ_/view?usp=sharing">MANAK KRAMANK 50</a></li>
                 <li><a href="https://drive.google.com/file/d/1o04_eEL-metOEmtPdFT7KDgVOvLtedUF/view?usp=sharing">MANAK KRAMANK 51</a></li>
