@@ -25,6 +25,7 @@
         <section id="pyq">
             <h2>SHETRA KRAMANK 01</h2>
             <ul>
+                <li><a href="https://drive.google.com/file/d/1H70qfln8oANzkjwOuzn7T2hgM7Iapb1y/view?usp=sharing">FRONT PAGE</a></li>
                 <li><a href="https://drive.google.com/file/d/1r1f6afWvN4Yd0VZiYlmLBIkRkNnZvTYr/view?usp=sharing">MANAK KRAMANK 01</a></li>
                 <li><a href="https://drive.google.com/file/d/1hjck7_6QinpGN_p_KCr-8rt-xHZuIgJ6/view?usp=sharing">MANAK KRAMANK 02</a></li>
                 <li><a href="">MANAK KRAMANK 03</a></li>
