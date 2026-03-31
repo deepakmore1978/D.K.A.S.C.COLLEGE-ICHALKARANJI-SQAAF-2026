@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <h1>SQAAF 2025-26</h1>
+    <h1>SQAAF2025-26</h1>
     <link rel="stylesheet" href="styles.css">
 </head>
 
