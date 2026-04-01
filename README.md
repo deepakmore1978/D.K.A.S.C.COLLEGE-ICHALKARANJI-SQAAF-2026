@@ -12,12 +12,12 @@
     <header>
         <nav>
             <ul> 
-                <li><a href="#pyq">SHETRA KRAMANK 01</a></li>
-                <li><a href="#SHETRA KAMANK 02">SHETRA KRAMANK- 02</a></li>
-                <li><a href="#SHETRA KAMANK 03">SHETRA KRAMANK- 03</a></li>
-                <li><a href="#SHETRA KAMANK 04">SHETRA KRAMANK- 04</a></li>
-                <li><a href="#SHETRA KAMANK 05">SHETRA KRAMANK- 05</a></li>
-                <li><a href="#SHETRA KAMANK 06">SHETRA KRAMANK- 06</a></li>
+                <li><a href="SHETRA KAMANK 01">SHETRA KRAMANK- 01</a></li>
+                <li><a href="SHETRA KAMANK 02">SHETRA KRAMANK- 02</a></li>
+                <li><a href="SHETRA KAMANK 03">SHETRA KRAMANK- 03</a></li>
+                <li><a href="SHETRA KAMANK 04">SHETRA KRAMANK- 04</a></li>
+                <li><a href="SHETRA KAMANK 05">SHETRA KRAMANK- 05</a></li>
+                <li><a href="SHETRA KAMANK 06">SHETRA KRAMANK- 06</a></li>
             </ul>
         </nav>
     </header>
