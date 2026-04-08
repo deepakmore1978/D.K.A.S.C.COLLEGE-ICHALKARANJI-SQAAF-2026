@@ -12,17 +12,17 @@
     <header>
         <nav>
             <ul> 
-                <li><a href="#SHETRA KAMANK 01">01 Shetra kramank- 01</a></li>
-                <li><a href="#SHETRA KAMANK 02">02 Shetra kramank- 02</a></li>
-                <li><a href="#SHETRA KAMANK 03">03 Shetra kramank- 03</a></li>
-                <li><a href="#SHETRA KAMANK 04">04 Shetra kramank- 04</a></li>
-                <li><a href="#SHETRA KAMANK 05">05 Shetra kramank- 05</a></li>
-                <li><a href="#SHETRA KAMANK 06">06 Shetra kramank- 06</a></li>
+                <li><a href="#SHETRA KRAMANK 01">01 Shetra kramank- 01</a></li>
+                <li><a href="#SHETRA KRAMANK 02">02 Shetra kramank- 02</a></li>
+                <li><a href="#SHETRA KRAMANK 03">03 Shetra kramank- 03</a></li>
+                <li><a href="#SHETRA KRAMANK 04">04 Shetra kramank- 04</a></li>
+                <li><a href="#SHETRA KRAMANK 05">05 Shetra kramank- 05</a></li>
+                <li><a href="#SHETRA KRAMANK 06">06 Shetra kramank- 06</a></li>
             </ul>
         </nav>
     </header>
     <main>
-        <section id="SHETRA KAMANK 01">
+        <section id="SHETRA KRAMANK 01">
             <h2>01 Shetra kramank- 01</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1H70qfln8oANzkjwOuzn7T2hgM7Iapb1y/view?usp=sharing">FRONT PAGE</a></li>
