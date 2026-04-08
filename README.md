@@ -12,18 +12,18 @@
     <header>
         <nav>
             <ul> 
-                <li><a href="#SHETRA KAMANK 01">Shetra kramank- 01</a></li>
-                <li><a href="#SHETRA KAMANK 02">Shetra kramank- 02</a></li>
-                <li><a href="#SHETRA KAMANK 03">Shetra kramank- 03</a></li>
-                <li><a href="#SHETRA KAMANK 04">Shetra kramank- 04</a></li>
-                <li><a href="#SHETRA KAMANK 05">Shetra kramank- 05</a></li>
-                <li><a href="#SHETRA KAMANK 06">Shetra kramank- 06</a></li>
+                <li><a href="#SHETRA KAMANK 01">01 Shetra kramank- 01</a></li>
+                <li><a href="#SHETRA KAMANK 02">02 Shetra kramank- 02</a></li>
+                <li><a href="#SHETRA KAMANK 03">03 Shetra kramank- 03</a></li>
+                <li><a href="#SHETRA KAMANK 04">04 Shetra kramank- 04</a></li>
+                <li><a href="#SHETRA KAMANK 05">05 Shetra kramank- 05</a></li>
+                <li><a href="#SHETRA KAMANK 06">06 Shetra kramank- 06</a></li>
             </ul>
         </nav>
     </header>
     <main>
         <section id="SHETRA KAMANK 01">
-            <h2>Shetra kramank- 01</h2>
+            <h2>01 Shetra kramank- 01</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1H70qfln8oANzkjwOuzn7T2hgM7Iapb1y/view?usp=sharing">FRONT PAGE</a></li>
                 <li><a href="https://drive.google.com/file/d/1r1f6afWvN4Yd0VZiYlmLBIkRkNnZvTYr/view?usp=sharing">MANAK KRAMANK 01</a></li>
@@ -73,7 +73,7 @@
            </ul>
         </section>
         <section id="SHETRA KRAMANK 02">
-            <h2>Shetra kramank- 02</h2>
+            <h2>02 Shetra kramank- 02</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/12PzhIVp3OPBcGRF0SCxAYmSuMz2DV-rp/view?usp=sharing">MANAK KRAMANK 45</a></li>
                 <li><a href="https://drive.google.com/file/d/1g3Sxz_axc1_xGV63pwtsZBiVWmaXWCpm/view?usp=sharing">MANAK KRAMANK 46</a></li>
@@ -106,7 +106,7 @@
             </ul>
         </section>
         <section id="SHETRA KRAMANK 03">
-            <h2>Shetra kramank- 03</h2>
+            <h2>03 Shetra kramank- 03</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1lnhoexfeOmaECgZo50z_50Gd3ZkBLdQu/view?usp=sharing">MANAK KRAMANK 75</a></li>
                 <li><a href="https://drive.google.com/file/d/1f6cb-eFnk1XnqKU53uA1wGrl2HaEF3Kn/view?usp=sharing">MANAK KRAMANK 76</a></li>
@@ -123,7 +123,7 @@
             </ul>
         </section>
         <section id="SHETRA KRAMANK 04">
-            <h2>Shetra kramank- 04</h2>
+            <h2>04 Shetra kramank- 04</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1eypCmWHaZHLBlZByqRLDk2M0Seophy8A/view?usp=sharing">MANAK KRAMANK 87</a></li>
                 <li><a href="https://drive.google.com/file/d/1Gh8dJ9EcxFs0-v0V7D5v40EvFPc1vJON/view?usp=sharing">MANAK KRAMANK 88</a></li>
@@ -142,7 +142,7 @@
            </ul>
         </section>
         <section id="SHETRA KRAMANK 05">
-            <h2>Shetra kramank- 05</h2>
+            <h2>05 Shetra kramank- 05</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1UNkDZT6Ccb2FVgHlQ7uuWydbgRG5EOVI/view?usp=sharing">MANAK KRAMANK 101</a></li>
                 <li><a href="https://drive.google.com/file/d/1OCVuAouoPQQ89BcZYpeXa7z25TvYvpvP/view?usp=sharing">MANAK KRAMANK 102</a></li>
@@ -164,7 +164,7 @@
            </ul>
         </section>
         <section id="SHETRA KRAMANK 06">
-            <h2>Shetra kramank- 06</h2>
+            <h2>06 Shetra kramank- 06</h2>
             <ul>
                 <li><a href="https://drive.google.com/file/d/1kOEGKlEMcBxdAmMMtHFenCRsjVVihIHT/view?usp=sharing">MANAK KRAMANK 118</a></li>
                 <li><a href="https://drive.google.com/file/d/1fFPyGf6nfEogWnOCobYnBNbl3MUqz3n0/view?usp=sharing">MANAK KRAMANK 119</a></li>
@@ -178,5 +178,4 @@
         </section>
         </main>
     </body>
-
 </html>
