@@ -97,9 +97,9 @@
                 <li><a href="">MANAK KRAMANK 64</a></li>
                 <li><a href="">MANAK KRAMANK 65</a></li>
                 <li><a href="">MANAK KRAMANK 66</a></li>
-                <li><a href="">MANAK KRAMANK 67</a></li>
-                <li><a href="">MANAK KRAMANK 68</a></li>
-                <li><a href="">MANAK KRAMANK 69</a></li>
+                <li><a href="https://drive.google.com/file/d/1qD6vd9D00Wb1s286CLCv2Qpwa_0Nbdm1/view?usp=sharing">MANAK KRAMANK 67</a></li>
+                <li><a href="https://drive.google.com/file/d/1o-9BIkTWBLQzC70TpEX7qw92VoqmSKmB/view?usp=sharing">MANAK KRAMANK 68</a></li>
+                <li><a href="https://drive.google.com/file/d/16ipOGKujUnOIIi1VLckJaQITsdANOLV9/view?usp=sharing">MANAK KRAMANK 69</a></li>
                 <li><a href="https://drive.google.com/file/d/1kKRoDdldmKDzIhBY1k4WzwMIH77MBqQK/view?usp=sharing">MANAK KRAMANK 70</a></li>
                 <li><a href="https://drive.google.com/file/d/1j-5yqQv9OE9t69unHZdUmb6jUVaYeDAt/view?usp=sharing">MANAK KRAMANK 71</a></li>
                 <li><a href="https://drive.google.com/file/d/1S47D-OjxJC0ZTbdWlfolsQWxPSKd-ez2/view?usp=sharing">MANAK KRAMANK 72</a></li>
@@ -172,10 +172,10 @@
                 <li><a href="https://drive.google.com/file/d/1fFPyGf6nfEogWnOCobYnBNbl3MUqz3n0/view?usp=sharing">MANAK KRAMANK 119</a></li>
                 <li><a href="https://drive.google.com/file/d/17s4FR0d1ES3Z3EIsRybYJe4Zmm3zC5eq/view?usp=sharing">MANAK KRAMANK 120</a></li>
                 <li><a href="https://drive.google.com/file/d/192UBKd0MkC9eyRjPyTQwjzxxlXzN9idr/view?usp=sharing">MANAK KRAMANK 121</a></li>
-                <li><a href="">MANAK KRAMANK 122</a></li>
-                <li><a href="">MANAK KRAMANK 123</a></li>
-                <li><a href="">MANAK KRAMANK 124</a></li>
-                <li><a href="">MANAK KRAMANK 125</a></li>
+                <li><a href="https://drive.google.com/file/d/1Y8QLkxqwV6Hw9SLZtVL3lLenT5QWu3qD/view?usp=sharing">MANAK KRAMANK 122</a></li>
+                <li><a href="https://drive.google.com/file/d/1lt8uhjb-JorQAJGkrbIRbY2XTKHcfX72/view?usp=sharing">MANAK KRAMANK 123</a></li>
+                <li><a href="https://drive.google.com/file/d/1UB1Crt-RfI6zNbrtJwLw3nhdcrRoJEvB/view?usp=sharing">MANAK KRAMANK 124</a></li>
+                <li><a href="https://drive.google.com/file/d/1Lg0u2KeZ-drbb3yGb7THZcj3XK3qClfi/view?usp=sharing">MANAK KRAMANK 125</a></li>
                 <li><a href="https://drive.google.com/file/d/1hD-6FJMbW7AOfpUSeuU3I16gxKtQrtOj/view?usp=sharing">MANAK KRAMANK 126</a></li>
                 <li><a href="https://drive.google.com/file/d/1MsgcQYx-ThTgFuIJ50W1f6ADUOiwLiDn/view?usp=sharing">MANAK KRAMANK 127</a></li>
                 <li><a href="https://drive.google.com/file/d/1s68-GmVwM1J_0epajei1tBWlrzLTqOYX/view?usp=sharing">MANAK KRAMANK 128</a></li>
